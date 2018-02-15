@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="quaffle">Quaffle</string>
+    <string name="snitch">Golden Snitch</string>
+    <string name="team1_name">Gryffindor</string>
+    <string name="team2_name">Slytherin</string>
+</resources>
